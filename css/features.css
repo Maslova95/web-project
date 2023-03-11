@@ -43,7 +43,18 @@ text-decoration: none;
     .features-container {
         display: flex;
         margin: auto;
-        width: auto;
+        width: 65%;
+    }
+    .features__style {
+        margin: 0 30px 0 30px;
     }
 }
+/* Сховати елемент на мобільних пристроях */
+@media (max-width: 750px) {
+    .features__element {
+        margin: 0;
+      display: none;
+    }
+  }
+  
 
