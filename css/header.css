@@ -1,0 +1,33 @@
+.header {
+    background-image: url(../img/bacground-figma.png);
+    min-height: 862px;
+    background-size: cover;
+    background-position: 50%, 50%;
+}
+
+.header__logo {
+    width: 206px;
+    height: 68px;
+    margin: 17px 196px 17px 16px;
+}
+
+.header-content {
+    margin: 30px, 20px, 30px, 20px;
+    gap: 59px;
+    color: white;
+}
+
+.header-content__title {
+    font-size: 3rem;
+    font-weight: 400;
+    margin: 60px 22px 7px 22px;
+    
+}
+
+.header-content__text {
+    font-size: 1.75rem;
+    margin: 28px 44px 68px 44px;
+    line-height: 40px;
+    font-weight: 400;
+}
+

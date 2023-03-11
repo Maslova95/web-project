@@ -1,11 +1,4 @@
-/* selector */
-
-@import url(common.css);
-@import url(index-header.css);
-@import url(index-features.css);
-@import url(index-footer.css);
-@import url(index-way-organize.css);
-@import url(index-newsletter.css);
-@import url(index-partners.css);
-@import url(index-testimonials.css);
-@import url(index-pricing.css);
+@import url(controls.css);
+@import url(global.css);
+@import url(header.css);
+@import url(features.css);
