@@ -43,7 +43,7 @@ text-decoration: none;
     .features-container {
         display: flex;
         margin: auto;
-        width: 65%;
+        width: 50vw;
     }
     .features__style {
         margin: 0 30px 0 30px;
